@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+PyPDF2
+faiss-cpu
+pysbd
+numpy
+requests
