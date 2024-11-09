@@ -8,3 +8,4 @@ faiss-cpu
 pysbd
 numpy
 requests
+sentence-transformers
